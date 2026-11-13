@@ -5,6 +5,7 @@ Sistema completo de gerenciamento de filas e atendimento desenvolvido em **Node.
 ---
 
 ## 👥 Equipe e Informações Acadêmicas
+* **Autora:** Giovanna Tavares
 * **Instituição:** UNINASSAU
 * **Disciplina:** Back-End Frameworks (Prof. Eduardo Hernandes) & Front-End (Prof. João Ferreira)
 * **Curso:** Sistemas de Informação
