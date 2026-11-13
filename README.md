@@ -117,6 +117,3 @@ O sistema cria automaticamente os seguintes usuários no primeiro start (com sen
 6. **Disponibilidade (Item 5.5):** Rota `/health` para monitoramento de integridade do banco e recuperação de falhas com resiliência visual no front-end.
 
 ---
-
-## ❌ Funcionalidades Não Implementadas
-* Envio de notificações push via SMS/WhatsApp para os pacientes (fora do escopo acadêmico atual).
